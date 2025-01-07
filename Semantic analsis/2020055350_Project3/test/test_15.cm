@@ -1,0 +1,13 @@
+int main (void)
+{
+	int x;
+	int y[5];
+	
+	y +
+		y
+		+
+		y;
+		
+	return 0;
+}
+

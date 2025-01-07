@@ -1,0 +1,20 @@
+int main (void)
+{
+	int x[6];
+	int y[5];
+	int z[4];
+	int t;
+	void w;
+	
+	if(x+
+	y
+	+z+
+	5){
+	x = y;
+	t + x;
+	t = x;
+	t[5] = x[x+y];
+	return x(x+c+w);
+	} 
+}
+

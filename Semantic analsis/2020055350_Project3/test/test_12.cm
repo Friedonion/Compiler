@@ -1,0 +1,14 @@
+int main (void)
+{
+	x;
+	x(1, 2);
+	
+	if(x(3))
+	{
+	
+	}
+	
+	return 0;
+	
+}
+
